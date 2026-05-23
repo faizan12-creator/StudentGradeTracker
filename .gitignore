@@ -1,0 +1,37 @@
+# ── Compiled Java ────────────────────────────────
+*.class
+*.jar
+*.war
+*.ear
+
+# ── Build output ─────────────────────────────────
+out/
+build/
+target/
+bin/
+
+# ── IntelliJ IDEA ────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# ── Eclipse ──────────────────────────────────────
+.classpath
+.project
+.settings/
+
+# ── VS Code ──────────────────────────────────────
+.vscode/
+
+# ── App data files (personal — do not push) ──────
+*.dat
+*.usr
+*.csv
+*_Report.txt
+
+# ── OS files ─────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
